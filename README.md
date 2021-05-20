@@ -3,9 +3,9 @@
 ## api-server
 ### Author: Tamara Al-billeh
 
-* [deployment for main branch]() .
-* [submission PR]() .
-* [tests report]() .
+* [deployment for main branch](https://tamara-api-server.herokuapp.com/) .
+* [submission PR](https://github.com/tamaraalbilleh/api-server/pulls) .
+* [tests report](https://github.com/tamaraalbilleh/api-server/actions) .
  
 ### Setup
 
@@ -242,6 +242,7 @@
 #### Tests
 
 - Unit Tests: `npm run test`
+![tests](./assets/npm1.PNG)
 - Lint Tests: `npm run lint`
 
 #### UML
